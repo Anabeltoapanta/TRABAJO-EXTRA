@@ -35,6 +35,9 @@ Una vez  dado el acceso a la base de datos  procedemos a  ingresar a phpMyAdmin 
 
 ![image](https://user-images.githubusercontent.com/85134094/128611223-14b52ffd-8529-4259-97e8-319128777163.png)
 
-Del mismo modo  inicializamos **NODE-RED** con ayude de 
+Del mismo modo  inicializamos **NODE-RED** con ayude de cmd del computador  para que asi nos proporcione el link que ingresaremos en el navegador .
+
+![image](https://user-images.githubusercontent.com/85134094/128614386-476bf4fb-674a-49cc-b318-f2f4663b9df6.png)
+
 
 
