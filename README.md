@@ -28,6 +28,10 @@ Uno de ellos es **XAMPP** el cual nos permitirá inicializar  la base de datos l
 
 ![](https://github.com/Anabeltoapanta/TRABAJO-EXTRA/blob/main/DESARROLLO/XAMPP.1.png)
 
-Una vez dado acceso a nuestra base de datos procedemos a registrarnos  en **phpMyAdmin**
+Una vez  dado el acceso a la base de datos  procedemos a  ingresar a phpMyAdmin  y nos registamos
+![image](https://user-images.githubusercontent.com/85134094/128611179-501578e4-84e6-4431-9ff0-c083c92f7c1a.png
+![image](https://user-images.githubusercontent.com/85134094/128611223-14b52ffd-8529-4259-97e8-319128777163.png)
+
+
 
 
