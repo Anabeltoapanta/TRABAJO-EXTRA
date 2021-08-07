@@ -41,4 +41,8 @@ Del mismo modo  inicializamos **NODE-RED** con ayude de cmd del computador  para
 
 ![image](https://user-images.githubusercontent.com/85134094/128614418-6903b6d9-a80a-4847-a29e-5ce8836045ed.png)
 
+Acontinuacióm  procedemos abrir NODE-RED en el servidor de internet.
+
+![image](https://user-images.githubusercontent.com/85134094/128614601-15462123-085d-4847-9456-19fa1d00028f.png)
+
 
