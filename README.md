@@ -56,10 +56,7 @@ Luego nombramos a nuestra base de datos y damos clic en crear.
 
 Es asi que nuestra base de datos tendra relación con la temperatura en este paso seleccionaremos el numero de columnas que va a contener.
 
-![image](https://user-images.githubusercontent.com/85134094/128615187-4031aec1-1042-41e3-871d-d74cd680566e.png)
 
-
-![image](https://user-images.githubusercontent.com/85134094/128615165-762e2c13-4950-4290-ab7a-cb79c67b9841.png)
 
 
 
