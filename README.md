@@ -45,4 +45,10 @@ Acontinuacióm  procedemos abrir NODE-RED en el servidor de internet.
 
 ![image](https://user-images.githubusercontent.com/85134094/128614601-15462123-085d-4847-9456-19fa1d00028f.png)
 
+Ya abierto  **phpMyAdmin** se procede a realizar la base datos  dando clic en NUEVO
+
+![image](https://user-images.githubusercontent.com/85134094/128614832-d554e17c-f17a-4311-93b3-a6fe7e41e732.png)
+![image](https://user-images.githubusercontent.com/85134094/128614837-4b831fa3-df83-4959-a12f-ade3fd0fd124.png)
+
+
 
