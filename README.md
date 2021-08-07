@@ -21,3 +21,6 @@ Antes de dar una explicación de como se realizo el empleo en primera instancia 
 
 ![](https://github.com/Anabeltoapanta/TRABAJO-EXTRA/blob/main/NODE-RED.png) Node red : es una herramienta de programación visual. Muestra visualmente las relaciones y funciones entre datos
 
+Una ves que se plasmo el concepto procedemos a la instalación de programas los cuales fueron apoyo para la realización del ejemplo.
+Uno de ellos es **XAMPP** el cual nos permitirá inicializar  la base de datos la cual es **phMyAdmin** por esta razon  se debe  permitir el acceso  activando en XAMPP  **My-SQL**
+
