@@ -20,4 +20,4 @@ My-SQL : Es un sistema de gestión de bases de datos que sirve para almacenar to
 ![](https://github.com/Anabeltoapanta/TRABAJO-EXTRA/blob/main/MY-SQL.png)
 
 Node red : es una herramienta de programación visual. Muestra visualmente las relaciones y funciones entre datos
-
+![](https://github.com/Anabeltoapanta/TRABAJO-EXTRA/blob/main/NODE-RED.png)
