@@ -80,3 +80,7 @@ Es asi que nuestra base de datos tendra relación con la temperatura en este pas
 ![image](https://user-images.githubusercontent.com/85134094/128784678-021aa5ab-d931-4b25-ac4a-5236ee03107a.png)
 ![image](https://user-images.githubusercontent.com/85134094/128784766-ab8c581e-9fac-4bb6-af45-b80e48b92e31.png)
 
+![image](https://user-images.githubusercontent.com/85134094/128784928-f09be29d-fc73-4e09-9d34-01f57276f98e.png)
+
+![image](https://user-images.githubusercontent.com/85134094/128785003-0f0cecb4-f3bd-4da3-9650-564ff7d0a662.png)
+
