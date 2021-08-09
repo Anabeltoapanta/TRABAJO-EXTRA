@@ -59,5 +59,6 @@ Es asi que nuestra base de datos tendra relación con la temperatura en este pas
 ![image](https://user-images.githubusercontent.com/85134094/128782933-47e158a5-6bb2-4cd6-8b3a-d7ab0ab6a706.png)
 
 
+![image](https://user-images.githubusercontent.com/85134094/128783118-84537e79-5861-4748-9d14-fe22aed9b1e3.png)
 
 
