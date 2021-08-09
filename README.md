@@ -29,7 +29,7 @@ Uno de ellos es **XAMPP** el cual nos permitirá inicializar  la base de datos l
 ![image](https://user-images.githubusercontent.com/85134094/128611260-17fda413-cc3e-44ee-aa91-0ee7a8856d81.png)
 
 
-Una vez  dado el acceso a la base de datos  procedemos a  ingresar a phpMyAdmin  y nos registamos
+Una vez dado el acceso a la base de datos procedemos a ingresar a phpMyAdmin y nos registamos
 
 ![image](https://user-images.githubusercontent.com/85134094/128611179-501578e4-84e6-4431-9ff0-c083c92f7c1a.png)
 
@@ -70,6 +70,8 @@ Es asi que nuestra base de datos tendra relación con la temperatura en este pas
 ![image](https://user-images.githubusercontent.com/85134094/128784212-2b275a17-69de-47e4-ab53-0fcc3b6fcf00.png)
 
 
+![image](https://user-images.githubusercontent.com/85134094/128784493-20edf263-0597-457e-ac37-ab1d823b756a.png)
+![image](https://user-images.githubusercontent.com/85134094/128784507-e573a155-9b71-4cbe-8b94-f69621161cb2.png)
 
 
 
