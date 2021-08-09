@@ -111,6 +111,11 @@ Es asi que nuestra base de datos tendra relación con la temperatura en este pas
 ![image](https://user-images.githubusercontent.com/85134094/128786557-3c808513-3f1a-41cd-9c88-e49454fe1f13.png)
 ![image](https://user-images.githubusercontent.com/85134094/128786644-78556c12-e5f3-479a-9316-dd0eaa00ab91.png)
 
+![image](https://user-images.githubusercontent.com/85134094/128786758-fdfc8bce-e3b3-444e-b66b-ef1470f2340b.png)
+
+![image](https://user-images.githubusercontent.com/85134094/128786838-ca15b94d-17e9-4621-8e84-db1d3ab2faf3.png)
+
+! [imagen] (https://user-images.githubusercontent.com/85134094/128786802-2f63e474-13f7-4f6b-8872-82b570af637d.png)
 
 
 
