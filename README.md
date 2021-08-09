@@ -64,7 +64,7 @@ Es asi que nuestra base de datos tendra relación con la temperatura en este pas
 
 ![image](https://user-images.githubusercontent.com/85134094/128783314-1821d24d-91f6-4a84-8506-3965d974b4e9.png)
 
-![image](https://user-images.githubusercontent.com/85134094/128783998-85d7d427-6df6-49c7-a78f-838ce9bc4202.png)
+
 
 ![image](https://user-images.githubusercontent.com/85134094/128784202-337235d0-f580-4586-a84b-324c2bf4807b.png)
 ![image](https://user-images.githubusercontent.com/85134094/128784212-2b275a17-69de-47e4-ab53-0fcc3b6fcf00.png)
