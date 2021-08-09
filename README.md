@@ -90,3 +90,9 @@ Es asi que nuestra base de datos tendra relación con la temperatura en este pas
 ![image](https://user-images.githubusercontent.com/85134094/128785360-581b4656-08f6-412d-82f5-93d366cc70df.png)
 ![image](https://user-images.githubusercontent.com/85134094/128785467-815ad1aa-5aec-4909-8fac-5474099ab449.png)
 
+![image](https://user-images.githubusercontent.com/85134094/128785531-dd9841e9-92e6-44ab-ab5d-553149e6f65b.png)
+![image](https://user-images.githubusercontent.com/85134094/128785648-3215dbb3-7f57-4ba0-9aac-f372fa7ae329.png)
+
+
+
+
