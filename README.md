@@ -108,6 +108,8 @@ Es asi que nuestra base de datos tendra relación con la temperatura en este pas
 ![image](https://user-images.githubusercontent.com/85134094/128786452-1d593fc9-61a8-4cb5-aa1d-bc3e65c74397.png)
 ![image](https://user-images.githubusercontent.com/85134094/128786480-8870217e-cc5b-4fb6-bb58-86ab48aa9b99.png)
 
+![image](https://user-images.githubusercontent.com/85134094/128786557-3c808513-3f1a-41cd-9c88-e49454fe1f13.png)
+![image](https://user-images.githubusercontent.com/85134094/128786644-78556c12-e5f3-479a-9316-dd0eaa00ab91.png)
 
 
 
