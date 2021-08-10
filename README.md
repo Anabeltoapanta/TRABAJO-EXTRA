@@ -79,6 +79,7 @@ Acontinuación clic en las tres lineas del lado derecho de la pantalla de node r
 ![image](https://user-images.githubusercontent.com/85134094/128784493-20edf263-0597-457e-ac37-ab1d823b756a.png)
 ![image](https://user-images.githubusercontent.com/85134094/128784507-e573a155-9b71-4cbe-8b94-f69621161cb2.png)
 
+Conectamos los dos nodos del aréa de trabajo de la manera que s emuestra en la ilustración.
 
 ![image](https://user-images.githubusercontent.com/85134094/128784592-80e63703-277a-4d35-9845-bae59ac8a75e.png)
 
