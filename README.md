@@ -74,6 +74,7 @@ el nodo de **function** y lo arrastramos al aréa de trabaji este nodo 9devuelve
 ![image](https://user-images.githubusercontent.com/85134094/128784202-337235d0-f580-4586-a84b-324c2bf4807b.png)
 ![image](https://user-images.githubusercontent.com/85134094/128784212-2b275a17-69de-47e4-ab53-0fcc3b6fcf00.png)
 
+Acontinuación clic en las tres lineas del lado derecho de la pantalla de node red clic en configuraciones ,clic en pallerts y clic en install y como último paso vinculamos el MySQL con Node red desde el nodo principal insert.
 
 ![image](https://user-images.githubusercontent.com/85134094/128784493-20edf263-0597-457e-ac37-ab1d823b756a.png)
 ![image](https://user-images.githubusercontent.com/85134094/128784507-e573a155-9b71-4cbe-8b94-f69621161cb2.png)
