@@ -83,7 +83,7 @@ Conectamos los dos nodos del aréa de trabajo de la manera que se muestra en la 
 
 ![image](https://user-images.githubusercontent.com/85134094/128784592-80e63703-277a-4d35-9845-bae59ac8a75e.png)
 
-Procedemos a cambiar el topic del nodo Function para vincular los datos de la base con la función que quiero que los muestre. Por lo cual ingresamos como código lo mostrado acontinuación.
+Procedemos a cambiar el topic del nodo Function dando clic en configuaciones al lado derecho del nodo para asi vincular los datos de la base con la función que quiero que los muestre. Por lo cual ingresamos como código lo mostrado acontinuación.
 
 ![image](https://user-images.githubusercontent.com/85134094/128784678-021aa5ab-d931-4b25-ac4a-5236ee03107a.png)
 ![image](https://user-images.githubusercontent.com/85134094/128784766-ab8c581e-9fac-4bb6-af45-b80e48b92e31.png)
