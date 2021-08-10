@@ -63,10 +63,12 @@ Ya creado procedemos a ingresar los datos que deseamos ya sea de tipo entero o c
 
 ![image](https://user-images.githubusercontent.com/85134094/128783118-84537e79-5861-4748-9d14-fe22aed9b1e3.png)
 
+Como vemos la base datos ha sido creada satisfactoriamente.
+
 ![image](https://user-images.githubusercontent.com/85134094/128783314-1821d24d-91f6-4a84-8506-3965d974b4e9.png)
 
-
-
+Despúes de crear nuestra base datos procedemos a dirigirnos a **NODE-RED** para proceder a la conexión de estas dos herramientas.
+ 
 ![image](https://user-images.githubusercontent.com/85134094/128784202-337235d0-f580-4586-a84b-324c2bf4807b.png)
 ![image](https://user-images.githubusercontent.com/85134094/128784212-2b275a17-69de-47e4-ab53-0fcc3b6fcf00.png)
 
