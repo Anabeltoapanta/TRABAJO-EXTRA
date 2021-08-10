@@ -95,6 +95,7 @@ Luego buscamos el nodo **Exec** el cual ejecuta el comando del sistema y devuelv
 ![image](https://user-images.githubusercontent.com/85134094/128785282-e5ae3c26-1a19-4950-90fb-90850b9aef51.png)
 
 
+
 ![image](https://user-images.githubusercontent.com/85134094/128785360-581b4656-08f6-412d-82f5-93d366cc70df.png)
 ![image](https://user-images.githubusercontent.com/85134094/128785467-815ad1aa-5aec-4909-8fac-5474099ab449.png)
 
