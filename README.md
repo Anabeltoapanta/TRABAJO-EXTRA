@@ -142,4 +142,4 @@ Ilustración final del ejemplo propuesto
 
 * Podemos ver que Node-Red vinculador con una base de datos en My-SQL es una herramienta muy util para organizar imformación y hacer atravez de forma mas rapida y sencila.
 * En esta ocasión, con tan solo unas pocas líneas de código hemos podido conectar a una base de datos y obtener por consola los resultados deseados. 
-* 
+* En conclusión nos ayudo a familiarizarnos con una base de datos y su manejo mediante Node-Red.
