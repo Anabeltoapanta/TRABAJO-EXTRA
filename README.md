@@ -94,6 +94,7 @@ Luego buscamos el nodo **Exec** el cual ejecuta el comando del sistema y devuelv
 ![image](https://user-images.githubusercontent.com/85134094/128785003-0f0cecb4-f3bd-4da3-9650-564ff7d0a662.png)
 ![image](https://user-images.githubusercontent.com/85134094/128785282-e5ae3c26-1a19-4950-90fb-90850b9aef51.png)
 
+Luego procedemos a cambiar el topic para que permita la salida correcta de los datos ingresados desde la base de datos.
 
 ![image](https://user-images.githubusercontent.com/85134094/128785531-dd9841e9-92e6-44ab-ab5d-553149e6f65b.png)
 ![image](https://user-images.githubusercontent.com/85134094/128785648-3215dbb3-7f57-4ba0-9aac-f372fa7ae329.png)
