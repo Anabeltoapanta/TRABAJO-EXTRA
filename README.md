@@ -124,17 +124,18 @@ Como penúltimo paso tenemos renombrar el nodo MySQL como **db** y ponemos el no
 ![image](https://user-images.githubusercontent.com/85134094/128786452-1d593fc9-61a8-4cb5-aa1d-bc3e65c74397.png)
 ![image](https://user-images.githubusercontent.com/85134094/128786480-8870217e-cc5b-4fb6-bb58-86ab48aa9b99.png)
 ![image](https://user-images.githubusercontent.com/85134094/128786557-3c808513-3f1a-41cd-9c88-e49454fe1f13.png)
+![image](https://user-images.githubusercontent.com/85134094/128786644-78556c12-e5f3-479a-9316-dd0eaa00ab91.png)
 
 Por último paso tenemos la ejecución del Node-Red y se observa que está correctamente creada. 
 
-![image](https://user-images.githubusercontent.com/85134094/128786644-78556c12-e5f3-479a-9316-dd0eaa00ab91.png)
-
 ![image](https://user-images.githubusercontent.com/85134094/128786758-fdfc8bce-e3b3-444e-b66b-ef1470f2340b.png)
-
 ![image](https://user-images.githubusercontent.com/85134094/128786838-ca15b94d-17e9-4621-8e84-db1d3ab2faf3.png)
+
+Ilustración final del ejemplo propuesto
 
 ![image](https://user-images.githubusercontent.com/85134094/128786948-34d047f6-1b51-4fb5-8ff4-73ee90abd548.png)
 
 
+**CONCLUSIÓN**
 
 
