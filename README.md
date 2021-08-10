@@ -68,7 +68,8 @@ Como vemos la base datos ha sido creada satisfactoriamente.
 ![image](https://user-images.githubusercontent.com/85134094/128783314-1821d24d-91f6-4a84-8506-3965d974b4e9.png)
 
 Despúes de crear nuestra base datos procedemos a dirigirnos a **NODE-RED** para proceder a la conexión de estas dos herramientas. Asi mismo nos dirigimos a la paleta de nodos y empezar con el proceso de conexión con la base de datos.
- 
+En primer instancia arrastramos el nodo *Inyect** el cual inyecta un mensaje en un flujo de forma manual o a intervalos regulares. La carga útil del mensaje puede ser de varios tipos, incluidas cadenas u objetos.
+
 ![image](https://user-images.githubusercontent.com/85134094/128784202-337235d0-f580-4586-a84b-324c2bf4807b.png)
 ![image](https://user-images.githubusercontent.com/85134094/128784212-2b275a17-69de-47e4-ab53-0fcc3b6fcf00.png)
 
