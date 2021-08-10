@@ -114,14 +114,19 @@ Se procede con la configuración del topic del nodo **MySQL** el cual relaciona 
 ![image](https://user-images.githubusercontent.com/85134094/128786136-e6f37ea6-4673-4489-bf5f-a737770dc748.png)
 ![image](https://user-images.githubusercontent.com/85134094/128786149-65ea528a-fecf-41b5-8074-16000ed41957.png)
 
+Por último editamos el mismo nodo entramos a propiedades y editamos el usuario y contraseña para asi vincular este nodo con la base de datos.
 
 ![image](https://user-images.githubusercontent.com/85134094/128786316-87bbfd4b-a3f7-4dee-963b-e92e5a0d91a2.png)
 ![image](https://user-images.githubusercontent.com/85134094/128786337-ad58ac4e-0cfd-4ddb-a9f1-ef696a88f93c.png)
 
+Como penúltimo paso tenemos renombrar el nodo MySQL como **db** y ponemos el nombre de la base de datos en la que queremos trabajar.
+
 ![image](https://user-images.githubusercontent.com/85134094/128786452-1d593fc9-61a8-4cb5-aa1d-bc3e65c74397.png)
 ![image](https://user-images.githubusercontent.com/85134094/128786480-8870217e-cc5b-4fb6-bb58-86ab48aa9b99.png)
-
 ![image](https://user-images.githubusercontent.com/85134094/128786557-3c808513-3f1a-41cd-9c88-e49454fe1f13.png)
+
+Por último paso tenemos la ejecución del Node-Red y se observa que está correctamente creada. 
+
 ![image](https://user-images.githubusercontent.com/85134094/128786644-78556c12-e5f3-479a-9316-dd0eaa00ab91.png)
 
 ![image](https://user-images.githubusercontent.com/85134094/128786758-fdfc8bce-e3b3-444e-b66b-ef1470f2340b.png)
