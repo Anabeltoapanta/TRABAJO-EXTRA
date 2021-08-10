@@ -104,6 +104,8 @@ Como siguiente paso tenemos seleccionamos y arrastramos el nodo **MySQL** para i
 ![image](https://user-images.githubusercontent.com/85134094/128785811-1d86d9e9-ec99-4394-89d9-6a9063b181cd.png)
 ![image](https://user-images.githubusercontent.com/85134094/128785817-e5182613-416e-4e75-a91a-e923cbff444d.png)
 
+Acontinuación arrastramos el último nodo el cual es **Debug** el cual se utiliza para mostrar mensajes en la barra lateral Debug dentro del editor.
+
 ![image](https://user-images.githubusercontent.com/85134094/128785966-8684ab4d-45ef-4ca9-ba78-4b86ca768f08.png)
 ![image](https://user-images.githubusercontent.com/85134094/128785973-caca0e33-d8d4-4518-854a-4d76519775d0.png)
 
