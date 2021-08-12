@@ -1,5 +1,9 @@
 # TRABAJO-EXTRA
 
+**AUTOR**
+
+TOAPANTA ANABEL
+
 **TEMA:**  Ejemplo para conexión de base de datos My-SQL con Node-red
 
 **BASE DE DATOS DE CLIENTES DE UN NEGOCIO**
