@@ -59,7 +59,7 @@ Luego nombramos a nuestra base de datos la cual llamaremos **node-red-temp** y d
 Es asi que nuestra base de datos tendra relación con la tabla que pondremos como nombre **clientes** en este paso seleccionaremos el numero de columnas que va a contener y clic en crear.
 
 ![image](https://user-images.githubusercontent.com/85134094/128782933-47e158a5-6bb2-4cd6-8b3a-d7ab0ab6a706.png)
-![image](https://user-images.githubusercontent.com/85134094/128783565-cdb94f36-583e-4f3f-88c0-67ca1a320b9b.png)
+![](https://github.com/Anabeltoapanta/TRABAJO-EXTRA/blob/main/20210811_204524.jpg)
 
 Ya creado procedemos a ingresar los datos que deseamos ya sea de tipo entero o char.
 
