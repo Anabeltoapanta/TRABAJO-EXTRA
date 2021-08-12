@@ -2,7 +2,7 @@
 
 **TEMA:**  Ejemplo para conexión de base de datos My-SQL con Node-red
 
-**BASE DE DATOS MY-SQL CON RESPECTO AL TIEMPO CON NODE-RED**
+**BASE DE DATOS DE CLIENTES DE UN NEGOCIO EN MY-SQL CON AYUDA DEL NODE-RED**
 
 **1.OBJETIVOS**
 
@@ -43,7 +43,7 @@ Del mismo modo  inicializamos **NODE-RED** con ayude de cmd del computador  para
 
 ![image](https://user-images.githubusercontent.com/85134094/128614418-6903b6d9-a80a-4847-a29e-5ce8836045ed.png)
 
-Acontinuacióm  procedemos abrir NODE-RED en el servidor de internet.
+Acontinuacióm  procedemos abrir NODE-RED en el servidor de internet con el link proporcionado en el paso anterior.
 
 ![image](https://user-images.githubusercontent.com/85134094/128614601-15462123-085d-4847-9456-19fa1d00028f.png)
 
@@ -52,11 +52,11 @@ Ya abierto  **phpMyAdmin** se procede a realizar la base datos  dando clic en NU
 ![image](https://user-images.githubusercontent.com/85134094/128614832-d554e17c-f17a-4311-93b3-a6fe7e41e732.png)
 ![image](https://user-images.githubusercontent.com/85134094/128614837-4b831fa3-df83-4959-a12f-ade3fd0fd124.png)
 
-Luego nombramos a nuestra base de datos y damos clic en crear.
+Luego nombramos a nuestra base de datos la cual llamaremos **node-red-temp** y damos clic en crear.
 
 ![image](https://user-images.githubusercontent.com/85134094/128615081-1f47639a-29be-4f9d-aa4f-936e38a16f50.png)
 
-Es asi que nuestra base de datos tendra relación con la tiempo en este paso seleccionaremos el numero de columnas que va a contener y clic en crear.
+Es asi que nuestra base de datos tendra relación con la tabla que pondremos como nombre **clientes** en este paso seleccionaremos el numero de columnas que va a contener y clic en crear.
 
 ![image](https://user-images.githubusercontent.com/85134094/128782933-47e158a5-6bb2-4cd6-8b3a-d7ab0ab6a706.png)
 ![image](https://user-images.githubusercontent.com/85134094/128783565-cdb94f36-583e-4f3f-88c0-67ca1a320b9b.png)
@@ -111,7 +111,7 @@ Acontinuación arrastramos el último nodo el cual es **Debug** el cual se utili
 ![image](https://user-images.githubusercontent.com/85134094/128785966-8684ab4d-45ef-4ca9-ba78-4b86ca768f08.png)
 ![image](https://user-images.githubusercontent.com/85134094/128785973-caca0e33-d8d4-4518-854a-4d76519775d0.png)
 
-Se procede con la configuración del topic del nodo **MySQL** el cual relaciona los datos de la base con Node-red para lo cual implementamos el código siguienteen el topic del nodo.
+Se procede con la configuración del topic del nodo **MySQL** el cual relaciona los datos de la base con Node-red para lo cual implementamos el código siguiente en el topic del nodo.
 
 ![image](https://user-images.githubusercontent.com/85134094/128786136-e6f37ea6-4673-4489-bf5f-a737770dc748.png)
 ![image](https://user-images.githubusercontent.com/85134094/128786149-65ea528a-fecf-41b5-8074-16000ed41957.png)
@@ -132,6 +132,19 @@ Por último paso tenemos la ejecución del Node-Red y se observa que está corre
 
 ![image](https://user-images.githubusercontent.com/85134094/128786758-fdfc8bce-e3b3-444e-b66b-ef1470f2340b.png)
 ![image](https://user-images.githubusercontent.com/85134094/128786838-ca15b94d-17e9-4621-8e84-db1d3ab2faf3.png)
+
+Luego procedmos a cambiar el topic de la funcion según los datos que ingresamos cada vez que editamos este.
+
+j
+
+Seguidamente damos clic en diploy y en el nodo inyect para que se inserte el dato de la misma manera esto se puede comprobar su ejecución al lado derecho de la ventana de este modo.El cual nos confirma que el dato se ingresado correctamente. 
+
+k
+
+Por último verificamos que lo ingresado en el topic de function se haya copiado correctamente en la base de datos.
+
+b
+
 
 Ilustración final del ejemplo propuesto
 
