@@ -111,8 +111,7 @@ Acontinuación arrastramos el último nodo el cual es **Debug** el cual se utili
 
 Se procede con la configuración del topic del nodo **MySQL** el cual relaciona los datos de la base con Node-red para lo cual implementamos el código siguiente en el topic del nodo.
 
-![image](https://user-images.githubusercontent.com/85134094/128786136-e6f37ea6-4673-4489-bf5f-a737770dc748.png)
-![image](https://user-images.githubusercontent.com/85134094/128786149-65ea528a-fecf-41b5-8074-16000ed41957.png)
+![](https://github.com/Anabeltoapanta/TRABAJO-EXTRA/blob/main/DESARROLLO/20210811_203749.jpg)
 
 Por último editamos el mismo nodo entramos a propiedades y editamos el usuario y contraseña para asi vincular este nodo con la base de datos.
 
