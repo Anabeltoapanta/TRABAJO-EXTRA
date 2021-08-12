@@ -137,6 +137,7 @@ Luego procedmos a cambiar el topic de la funcion según los datos que ingresamos
 
 Seguidamente damos clic en diploy y en el nodo inyect para que se inserte el dato de la misma manera esto se puede comprobar su ejecución al lado derecho de la ventana de este modo.El cual nos confirma que el dato se ingresado correctamente. 
 
+![](https://github.com/Anabeltoapanta/TRABAJO-EXTRA/blob/main/DESARROLLO/20210811_205657.jpg)
 ![](https://github.com/Anabeltoapanta/TRABAJO-EXTRA/blob/main/DESARROLLO/IMG-20210811-WA0017.jpg)
 
 Por último verificamos que lo ingresado en el topic de function se haya copiado correctamente en la base de datos.
