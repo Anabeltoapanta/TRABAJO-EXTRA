@@ -143,8 +143,7 @@ Seguidamente damos clic en diploy y en el nodo inyect para que se inserte el dat
 
 Por último verificamos que lo ingresado en el topic de function se haya copiado correctamente en la base de datos.
 
-b
-
+![](https://github.com/Anabeltoapanta/TRABAJO-EXTRA/blob/main/DESARROLLO/IMG-20210811-WA0016.jpg)
 
 Ilustración final del ejemplo propuesto
 
