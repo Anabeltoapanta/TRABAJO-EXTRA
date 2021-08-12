@@ -1,0 +1,116 @@
+[
+    {
+        "id": "c287546571f68fbd",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "f42a3b77db051b97",
+        "type": "inject",
+        "z": "c287546571f68fbd",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 100,
+        "wires": [
+            [
+                "666770408fdaf4b4"
+            ]
+        ]
+    },
+    {
+        "id": "666770408fdaf4b4",
+        "type": "function",
+        "z": "c287546571f68fbd",
+        "name": "",
+        "func": "msg.topic = \"INSERT INTO `clientes` (`cliente_id`, `nombre`, `domicilio`, `fecha_alta`) VALUES ('', '   Alberto Toapanta', 'Sangolqui', '2022-08-01')\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 220,
+        "wires": [
+            [
+                "a82d58bd9ce2ba4d",
+                "e0111da5b291f9a9"
+            ]
+        ]
+    },
+    {
+        "id": "dc09244a4e26a769",
+        "type": "exec",
+        "z": "c287546571f68fbd",
+        "command": "vcgencmd",
+        "addpay": "",
+        "append": "measure_temp",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "",
+        "x": 250,
+        "y": 160,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "a82d58bd9ce2ba4d",
+        "type": "mysql",
+        "z": "c287546571f68fbd",
+        "mydb": "5eeef3079f99537e",
+        "name": "db",
+        "x": 590,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e0111da5b291f9a9",
+        "type": "debug",
+        "z": "c287546571f68fbd",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "temp",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 540,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "5eeef3079f99537e",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db": "node-red-temp",
+        "tz": "",
+        "charset": "UTF8"
+    }
+]
