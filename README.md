@@ -98,8 +98,7 @@ Luego buscamos el nodo **Exec** el cual ejecuta el comando del sistema y devuelv
 
 Luego procedemos a cambiar el topic para que permita la salida correcta de los datos ingresados desde la base de datos.
 
-![image](https://user-images.githubusercontent.com/85134094/128785531-dd9841e9-92e6-44ab-ab5d-553149e6f65b.png)
-![image](https://user-images.githubusercontent.com/85134094/128785648-3215dbb3-7f57-4ba0-9aac-f372fa7ae329.png)
+![](https://github.com/Anabeltoapanta/TRABAJO-EXTRA/blob/main/DESARROLLO/IMG-20210811-WA0016.jpg)
 
 Como siguiente paso tenemos seleccionamos y arrastramos el nodo **MySQL** para insertar valores a una base de datos y damos dobles clic en nodo el cual nos propone seleccionar la base de datos con la cual deseamos trabajar la cual es **time**.
 
