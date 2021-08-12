@@ -30,14 +30,13 @@ Uno de ellos es **XAMPP** el cual nos permitirá inicializar  la base de datos l
 
 ![image](https://user-images.githubusercontent.com/85134094/128611260-17fda413-cc3e-44ee-aa91-0ee7a8856d81.png)
 
-
 Una vez dado el acceso a la base de datos procedemos a ingresar a phpMyAdmin y nos registamos
 
 ![image](https://user-images.githubusercontent.com/85134094/128611179-501578e4-84e6-4431-9ff0-c083c92f7c1a.png)
 
 ![image](https://user-images.githubusercontent.com/85134094/128611223-14b52ffd-8529-4259-97e8-319128777163.png)
 
-Del mismo modo  inicializamos **NODE-RED** con ayude de cmd del computador  para que asi nos proporcione el link que ingresaremos en el navegador .
+Del mismo modo  inicializamos **NODE-RED** con ayude de cmd  como ejecutador del computador para que asi nos proporcione el link que ingresaremos en el navegador .
 
 ![image](https://user-images.githubusercontent.com/85134094/128614525-a9764a5c-e657-4ad6-a97f-4acc857400f4.png)
 
@@ -56,7 +55,7 @@ Luego nombramos a nuestra base de datos la cual llamaremos **node-red-temp** y d
 
 ![image](https://user-images.githubusercontent.com/85134094/128615081-1f47639a-29be-4f9d-aa4f-936e38a16f50.png)
 
-Es asi que nuestra base de datos tendra relación con la tabla que pondremos como nombre **clientes** en este paso seleccionaremos el numero de columnas que va a contener y clic en crear.
+Es asi que nuestra base de datos tendra relación con la tabla que pondremos como nombre **clientes** la cual tendra como atributos el id, domicilio y fecha de compra que hace el cliente y clic en crear.
 
 ![image](https://user-images.githubusercontent.com/85134094/128782933-47e158a5-6bb2-4cd6-8b3a-d7ab0ab6a706.png)
 ![](https://github.com/Anabeltoapanta/TRABAJO-EXTRA/blob/main/20210811_204524.jpg)
