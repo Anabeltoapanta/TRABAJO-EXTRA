@@ -137,6 +137,9 @@ Ilustración final del ejemplo propuesto
 
 ![image](https://user-images.githubusercontent.com/85134094/128786948-34d047f6-1b51-4fb5-8ff4-73ee90abd548.png)
 
+**VIDEO DE LA PARTE PRACTICA**
+
+https://youtu.be/3n04JFXlVyI
 
 **CONCLUSIÓN**
 
