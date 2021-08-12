@@ -135,7 +135,7 @@ Por último paso tenemos la ejecución del Node-Red y se observa que está corre
 
 Luego procedmos a cambiar el topic de la funcion según los datos que ingresamos cada vez que editamos este.
 
-j
+![](https://github.com/Anabeltoapanta/TRABAJO-EXTRA/blob/main/DESARROLLO/20210811_203749.jpg)
 
 Seguidamente damos clic en diploy y en el nodo inyect para que se inserte el dato de la misma manera esto se puede comprobar su ejecución al lado derecho de la ventana de este modo.El cual nos confirma que el dato se ingresado correctamente. 
 
