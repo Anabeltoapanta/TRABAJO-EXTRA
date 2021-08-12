@@ -2,7 +2,7 @@
 
 **TEMA:**  Ejemplo para conexión de base de datos My-SQL con Node-red
 
-**BASE DE DATOS DE CLIENTES DE UN NEGOCIO EN MY-SQL CON AYUDA DEL NODE-RED**
+**BASE DE DATOS DE CLIENTES DE UN NEGOCIO**
 
 **1.OBJETIVOS**
 
